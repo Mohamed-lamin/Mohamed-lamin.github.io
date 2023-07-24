@@ -1,0 +1,32 @@
+.fa {
+  padding: 20px;
+  margin: 10px;
+  font-size: 3rem;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  color: #3b5998;
+  border-radius: 50%;
+}
+/* Twitter */
+.fa-whatsapp {
+  color: rgb(18, 244, 33);
+  border-radius: 50%;
+}
